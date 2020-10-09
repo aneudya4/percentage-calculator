@@ -112,3 +112,28 @@ form button:hover {
 div.modal.show-modal button {
   cursor: pointer;
 }
+
+footer ul {
+  width: 300px;
+  list-style: none;
+  /* text-align: center; */
+  padding: 0;
+  font-size: 40px;
+  color: white;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+footer ul li {
+  margin: 5px;
+}
+
+footer a,
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: #994040;
+}
